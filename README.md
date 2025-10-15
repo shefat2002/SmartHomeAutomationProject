@@ -8,8 +8,8 @@ SmartHomeAutomationProject is an embedded system project designed to automate an
 
 ### System Images
 
-![Smart Home Automation System](image/SmartHomeAutomation.jpg)
-![Implementation Example](image/Implementation.jpg)
+![Smart Home Automation System](Images/SmartHomeAutomation.jpg)
+![Implementation Example](Images/Implementation.jpg)
 
 ---
 
