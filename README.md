@@ -6,6 +6,13 @@ SmartHomeAutomationProject is an embedded system project designed to automate an
 
 ---
 
+### System Images
+
+![Smart Home Automation System](image/SmartHomeAutomation.jpg)
+![Implementation Example](image/Implementation.jpg)
+
+---
+
 ## Main Components
 
 ### 1. ESP32-CAM Module
